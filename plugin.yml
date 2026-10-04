@@ -1,0 +1,11 @@
+name: Pixel_Games
+main: PixelGames\Core
+version: 19.04.2024
+api: [1.0.0, 2.0.0, 3.0.0]
+author: "tatanova"
+description: "Gifts in the lobby"
+
+permissions:
+  new.event:
+    description: "Can create new event signs"
+    default: op
